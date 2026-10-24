@@ -1,11 +1,11 @@
-/* 华中农业大学补充题库：49道校史 + 83道资料精编，共132题。
+/* 华中农业大学补充题库：共260题，其中本次真题资料整理128题。
  * 放在原项目 index.html、questions.js 的同一层，保留文件名 my-school.js。
  * 原项目：https://github.com/jiazhaojune-gif/ganen-scientist-quiz
- * 题目为学习资料改编，并非官方考试真题。
+ * 含学习资料改编、回忆整理与华农适配题；不等同于官方完整试卷。
  */
 window.MY_SCHOOL_META={
   "name": "华中农业大学",
-  "tip": "华农校史与个人资料精编，已补充132题"
+  "tip": "华农校史、个人资料与真题整理，已补充260题"
 };
 window.MY_SCHOOL_BANK=[
   {
@@ -2029,6 +2029,1680 @@ window.MY_SCHOOL_BANK=[
     ],
     "answer": 3,
     "note": "嫦娥六号返回器于2024年6月25日在内蒙古四子王旗预定区域着陆，实现世界首次月球背面采样返回。嫦娥五号完成的是我国首次月球正面无人采样返回。\n核对状态：已核对官方资料\n核对链接：https://www.cnsa.gov.cn/n6758823/n6758844/n10518102/n10518147/c10565180/content.html"
+  },
+  {
+    "id": "hzn-notes-exam-001",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q001",
+    "question": "科学家精神的六个方面及其完整内涵是什么？",
+    "answer": "爱国：胸怀祖国、服务人民；创新：勇攀高峰、敢为人先；求实：追求真理、严谨治学；奉献：淡泊名利、潜心研究；协同：集智攻关、团结协作；育人：甘为人梯、奖掖后学。",
+    "exam": true,
+    "note": "《感恩科学家真题》第1页，原题Q001。首位是爱国。\n原文位置：《感恩科学家真题》PDF第1页，《感恩科学家真题》原题 Q001\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-002",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q002",
+    "question": "新时代要发扬以什么为底色的科学家精神？",
+    "answer": "爱国主义",
+    "keywords": [
+      "爱国主义"
+    ],
+    "acceptedAnswers": [
+      "爱国主义"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第1页，原题Q002。原资料答案为爱国主义。\n原文位置：《感恩科学家真题》PDF第1页，《感恩科学家真题》原题 Q002\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-003",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q003",
+    "question": "两弹一星精神的规范表述是什么？",
+    "answer": "热爱祖国、无私奉献，自力更生、艰苦奋斗，大力协同、勇于登攀。",
+    "exam": true,
+    "note": "《感恩科学家真题》第1页，原题Q003。三个并列部分作为完整参考答案，自评掌握情况。\n原文位置：《感恩科学家真题》PDF第1页，《感恩科学家真题》原题 Q003\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-004",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q004",
+    "question": "毛泽东思想活的灵魂的三个基本方面是什么？",
+    "answer": "实事求是、群众路线、独立自主。",
+    "exam": true,
+    "note": "《感恩科学家真题》第1页，原题Q004。题目在第1页末，答案续第2页；三项均应掌握。\n原文位置：《感恩科学家真题》PDF第1页，《感恩科学家真题》原题 Q004\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-005",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q005",
+    "question": "中国式现代化的本质要求之一、中国特色社会主义的本质要求，都强调什么？",
+    "answer": "实现全体人民共同富裕",
+    "keywords": [
+      "实现全体人民共同富裕"
+    ],
+    "acceptedAnswers": [
+      "实现全体人民共同富裕",
+      "共同富裕"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第2页，原题Q005。原资料分两句回答，二者共同要点是共同富裕。\n原文位置：《感恩科学家真题》PDF第2页，《感恩科学家真题》原题 Q005\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-006",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q006",
+    "question": "中国共产党的最高理想和最终目标是什么？",
+    "answer": "实现共产主义",
+    "keywords": [
+      "实现共产主义"
+    ],
+    "acceptedAnswers": [
+      "实现共产主义",
+      "共产主义"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第2页，原题Q006。根据原资料整理。\n原文位置：《感恩科学家真题》PDF第2页，《感恩科学家真题》原题 Q006\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-007",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q007",
+    "question": "在香港、澳门治理实践中坚持的基本方针是什么？",
+    "answer": "一国两制",
+    "keywords": [
+      "一国两制"
+    ],
+    "acceptedAnswers": [
+      "一国两制"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第2页，原题Q007。根据原资料整理。\n原文位置：《感恩科学家真题》PDF第2页，《感恩科学家真题》原题 Q007\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-008",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q008",
+    "question": "全国科技工作者日是每年的哪一天？",
+    "answer": "5月30日",
+    "keywords": [
+      "5月30日"
+    ],
+    "acceptedAnswers": [
+      "5月30日",
+      "五月三十日",
+      "5.30",
+      "05月30日"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第2页，原题Q008。根据原资料整理。\n原文位置：《感恩科学家真题》PDF第2页，《感恩科学家真题》原题 Q008\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-009",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q009",
+    "question": "2026年4月30日加强基础研究座谈会讲话中，为让投身基础研究成为更多青少年的人生追求，应弘扬什么精神、加强什么宣传、激发什么？",
+    "answer": "弘扬科学家精神；加强科普宣传；激发青少年的想象力和探求欲。",
+    "exam": true,
+    "note": "《感恩科学家真题》第2页，原题Q009。已核对官方发布的新华社报道，2026年4月30日日期有据。原答案“弘扬科学家精神了”中的“了”为笔误，改为规范表达；想象力与探求欲整理为想象力和探求欲。\n原文位置：《感恩科学家真题》PDF第2页，《感恩科学家真题》原题 Q009\n核对状态：已核对官方资料\n核对链接：https://www.sara.gov.cn/static/content/ywdt/lbxw/2026-04-30/1499456372738232321.html"
+  },
+  {
+    "id": "hzn-notes-exam-010",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q010",
+    "question": "黄大年把为哪三个方面贡献力量作为毕生追求？",
+    "answer": "祖国富强、民族振兴、人民幸福。",
+    "exam": true,
+    "note": "《感恩科学家真题》第2页，原题Q010。教育部黄大年事迹材料引述2017年5月重要指示，三项均需掌握。\n原文位置：《感恩科学家真题》PDF第2页，《感恩科学家真题》原题 Q010\n核对状态：已核对官方资料\n核对链接：https://hudong.moe.gov.cn/jyb_xwfb/moe_2082/2021/2021_zl37/shideshiji/202105/t20210511_530854.html"
+  },
+  {
+    "id": "hzn-notes-exam-011",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q011",
+    "question": "民族精神是一个民族存在和发展的什么？",
+    "answer": "精神支柱",
+    "keywords": [
+      "精神支柱"
+    ],
+    "acceptedAnswers": [
+      "精神支柱"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第2页，原题Q011。根据原资料整理。\n原文位置：《感恩科学家真题》PDF第2页，《感恩科学家真题》原题 Q011\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-012",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q012",
+    "question": "为国分忧、为国解难、为国尽责体现什么情怀？",
+    "answer": "家国情怀",
+    "keywords": [
+      "家国情怀"
+    ],
+    "acceptedAnswers": [
+      "家国情怀"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第2页，原题Q012。根据原资料整理。\n原文位置：《感恩科学家真题》PDF第2页，《感恩科学家真题》原题 Q012\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-013a",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q013·青年科技人才",
+    "question": "2026年7月8日国家科学技术奖励大会、两院院士大会、中国科协第十一次全国代表大会讲话指出：科学的未来在哪里？要把什么作为战略工程，全方位做好哪些工作？",
+    "answer": "科学的未来在青年；把青年科技人才队伍建设作为一项战略工程；全方位做好培养、引进、使用工作。",
+    "exam": true,
+    "note": "《感恩科学家真题》第2页，原题Q013·青年科技人才。已核对工信部发布的新华社讲话全文，日期和中国科协大会届次有据。原资料另有Q013，分别用013a、013b保留唯一编号。\n原文位置：《感恩科学家真题》PDF第2页，《感恩科学家真题》原题 Q013·青年科技人才\n核对状态：已核对官方资料\n核对链接：https://www.miit.gov.cn/xwfb/szyw/art/2026/art_bd9ee2b61dc94c77a9d9ac9d9e922037.html"
+  },
+  {
+    "id": "hzn-notes-exam-013b",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q013·民族自尊",
+    "question": "《心胜》相关阅读题：民族自尊在民族命运经受大挫折、前进之途充满大艰难、生命集合体面临大苦难时，体现为什么与什么？",
+    "answer": "精神历练；灵魂展示。",
+    "exam": true,
+    "note": "《感恩科学家真题》第3页，原题Q013·民族自尊。仅按用户提供资料作为阅读复习参考；尚未据所读版本原书逐字核对。原资料另有Q013，分别用013a、013b保留唯一编号。\n原文位置：《感恩科学家真题》PDF第3页，《感恩科学家真题》原题 Q013·民族自尊\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-014",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q014",
+    "question": "中共一大有多少位代表？其中从建党坚持革命到新中国成立的两位代表是谁？",
+    "answer": "13位；毛泽东、董必武。",
+    "exam": true,
+    "note": "《感恩科学家真题》第3页，原题Q014。三个独立要点，以完整参考答案自评。\n原文位置：《感恩科学家真题》PDF第3页，《感恩科学家真题》原题 Q014\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-015",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q015",
+    "question": "金一南讲述的入党时只问“怕不怕死”的故事，资料如何概括这句话的分量和精神实质？故事中的当事人是谁，于哪年、何地入党？",
+    "answer": "资料概括：一句顶一万句；革命理想高于天。故事当事人：谭恩晋；1947年在北平入党。",
+    "exam": true,
+    "note": "《感恩科学家真题》第3页，原题Q015。原资料人名“谭思晋”有误。金一南本人在CCTV《对话》逐字稿中称“谭恩晋”，并讲到1947年在北平入党；依此修正。分量与精神实质两项仍属原资料的阅读概括。\n原文位置：《感恩科学家真题》PDF第3页，《感恩科学家真题》原题 Q015\n核对状态：按用户资料编写\n核对链接：https://jingji.cntv.cn/program/duihua/20101126/109577_print.shtml"
+  },
+  {
+    "id": "hzn-notes-exam-016",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q016",
+    "question": "按《心胜》相关复习资料，共产党人在艰险、困难、混沌时刻体现哪两种作用和哪两种精神？",
+    "answer": "先锋作用、模范作用；奋斗精神、牺牲精神。",
+    "exam": true,
+    "note": "《感恩科学家真题》第3页，原题Q016。按原资料作阅读参考；四项均需掌握。\n原文位置：《感恩科学家真题》PDF第3页，《感恩科学家真题》原题 Q016\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-019",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q019",
+    "question": "按这份资料，《心胜》系列共有几册，各册副标题是什么，作者是谁？",
+    "answer": "3册；第一册《心胜则兴，心败则衰》；第二册《灵魂与血性，关乎命运》；第三册《尊严与正义，关乎国运》；作者金一南。",
+    "exam": true,
+    "note": "《感恩科学家真题》第3页，原题Q019。采用原资料描述的三册版本，题面明确版本口径，避免把册数表述为无限期现状。\n原文位置：《感恩科学家真题》PDF第3页，《感恩科学家真题》原题 Q019\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-020a",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q020·四有军人",
+    "question": "新时代革命军人的“四有”是什么？",
+    "answer": "有灵魂、有本事、有血性、有品德。",
+    "exam": true,
+    "note": "《感恩科学家真题》第3页，原题Q020·四有军人。原资料四项齐全但顺序混排；按国防部规范表述调整顺序。原资料另有Q020，于敏条目用020b。\n原文位置：《感恩科学家真题》PDF第3页，《感恩科学家真题》原题 Q020·四有军人\n核对状态：已核对官方资料\n核对链接：https://www.mod.gov.cn/gfbw/fgwx/cbw/4921495.html"
+  },
+  {
+    "id": "hzn-notes-exam-020b",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q020·于敏",
+    "question": "被誉为“中国氢弹之父”、未出国留学的“国产土专家一号”的科学家是谁？他的氢弹研究主要贡献是什么？",
+    "answer": "于敏；在氢弹原理突破和理论设计等方面作出关键贡献。",
+    "exam": true,
+    "note": "《感恩科学家真题》第3页，原题Q020·于敏。原答案额外夹入“中子弹之父”称谓，题面并未询问且依据不足，本题不采用该附加称谓。保留官方可核的氢弹之父、国产土专家一号及氢弹研究贡献。\n原文位置：《感恩科学家真题》PDF第3页，《感恩科学家真题》原题 Q020·于敏\n核对状态：已核对官方资料\n核对链接：https://news.pku.edu.cn/info/7921/2747141.htm"
+  },
+  {
+    "id": "hzn-notes-exam-021",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q021",
+    "question": "被誉为“中国航天之父”“中国导弹之父”“中国自动化控制之父”和“火箭之王”的科学家是谁？",
+    "answer": "钱学森",
+    "keywords": [
+      "钱学森"
+    ],
+    "acceptedAnswers": [
+      "钱学森"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第3页，原题Q021。题面在第3页末，答案续第4页。\n原文位置：《感恩科学家真题》PDF第3页，《感恩科学家真题》原题 Q021\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-022",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q022",
+    "question": "钱学森于1954年出版的代表著作是什么？他开创的相应学科是什么？",
+    "answer": "《工程控制论》；工程控制论。",
+    "exam": true,
+    "note": "《感恩科学家真题》第4页，原题Q022。原资料将代表著作与学科并列，保留其1954年出版信息。\n原文位置：《感恩科学家真题》PDF第4页，《感恩科学家真题》原题 Q022\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-023",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q023",
+    "question": "资料收录的钱学森关于事业与归宿的归国名言是什么？",
+    "answer": "我的事业在中国，我的归宿在中国。",
+    "exam": true,
+    "note": "《感恩科学家真题》第4页，原题Q023。按原资料收录文字进行记忆，不采用自动逐字判分。\n原文位置：《感恩科学家真题》PDF第4页，《感恩科学家真题》原题 Q023\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-024",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q024",
+    "question": "这份资料中，被列为中国近代力学与应用数学奠基人之一的科学家是谁？",
+    "answer": "钱伟长",
+    "keywords": [
+      "钱伟长"
+    ],
+    "acceptedAnswers": [
+      "钱伟长"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第4页，原题Q024。保留原资料“之一”的限定，避免把该称谓误当作仅一人独占。\n原文位置：《感恩科学家真题》PDF第4页，《感恩科学家真题》原题 Q024\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-025",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q025",
+    "question": "被誉为“中国工程科学界支柱性的科学家”和“中国科技众帅之帅”的科学家是谁？",
+    "answer": "朱光亚",
+    "keywords": [
+      "朱光亚"
+    ],
+    "acceptedAnswers": [
+      "朱光亚"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第4页，原题Q025。\n原文位置：《感恩科学家真题》PDF第4页，《感恩科学家真题》原题 Q025\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-026",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q026",
+    "question": "被誉为“中国计算机之母”的科学家是谁？",
+    "answer": "夏培肃",
+    "keywords": [
+      "夏培肃"
+    ],
+    "acceptedAnswers": [
+      "夏培肃"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第4页，原题Q026。根据原资料整理。\n原文位置：《感恩科学家真题》PDF第4页，《感恩科学家真题》原题 Q026\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-027",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q027",
+    "question": "被誉为“人民数学家”、曾向工人推广数学方法的科学家是谁？",
+    "answer": "华罗庚",
+    "keywords": [
+      "华罗庚"
+    ],
+    "acceptedAnswers": [
+      "华罗庚"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第4页，原题Q027。根据原资料整理。\n原文位置：《感恩科学家真题》PDF第4页，《感恩科学家真题》原题 Q027\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-028",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q028",
+    "question": "被誉为“钢铁院士”的科学家是谁？",
+    "answer": "崔崑",
+    "keywords": [
+      "崔崑"
+    ],
+    "acceptedAnswers": [
+      "崔崑"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第4页，原题Q028。保留人名用字“崑”。\n原文位置：《感恩科学家真题》PDF第4页，《感恩科学家真题》原题 Q028\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-029",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q029",
+    "question": "被誉为“中国核潜艇之父”的科学家是谁？他参与主持研制的我国首艘核潜艇叫什么？",
+    "answer": "黄旭华；长征一号。",
+    "exam": true,
+    "note": "《感恩科学家真题》第4页，原题Q029。保留原题人物与艇名两个要点；表述为参与主持研制，避免抹去总体研制团队及其他负责人的贡献。\n原文位置：《感恩科学家真题》PDF第4页，《感恩科学家真题》原题 Q029\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-030",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q030",
+    "question": "被称为“中国核司令”，感动中国颁奖词中有“黄沙百战穿金甲，甲光向日金鳞开”的科学家是谁？",
+    "answer": "程开甲",
+    "keywords": [
+      "程开甲"
+    ],
+    "acceptedAnswers": [
+      "程开甲"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第4页，原题Q030。按原资料人物对应关系整理。\n原文位置：《感恩科学家真题》PDF第4页，《感恩科学家真题》原题 Q030\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-031",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q031",
+    "question": "程开甲提出的联合测定核爆炸威力的方法，以哪三种主要手段为主？",
+    "answer": "力学、光学、放射化学。",
+    "exam": true,
+    "note": "《感恩科学家真题》第4页，原题Q031。中国科学院文献情报中心科学传播资料明确记载，以这三种手段为主联合定爆炸威力。\n原文位置：《感恩科学家真题》PDF第4页，《感恩科学家真题》原题 Q031\n核对状态：已核对官方资料\n核对链接：https://kxcb.las.ac.cn/ldyx_news_detail/901.html"
+  },
+  {
+    "id": "hzn-notes-exam-032",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q032",
+    "question": "这份资料在程开甲条目中列举了哪三种核试验方式？",
+    "answer": "塔爆、地下平洞、地下竖井。",
+    "exam": true,
+    "note": "《感恩科学家真题》第4页，原题Q032。此为该资料列举的三种，并非核试验方式的完整分类。程开甲还涉及空中、导弹、地面等爆炸方式，不宜把三种表述为全部方式。\n原文位置：《感恩科学家真题》PDF第4页，《感恩科学家真题》原题 Q032\n核对状态：按用户资料编写\n核对链接：https://www.cdstm.cn/subjects/liangdanyixing/rwdl/art/2025/art_9ba75b6676b141d193f455f9a922dcd5.html"
+  },
+  {
+    "id": "hzn-notes-exam-033",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q033",
+    "question": "这份资料中，被描述为“三次与诺贝尔奖擦肩而过”的核物理学家是谁？",
+    "answer": "王淦昌",
+    "keywords": [
+      "王淦昌"
+    ],
+    "acceptedAnswers": [
+      "王淦昌"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第5页，原题Q033。称谓属于资料中的人物叙述，保留“这份资料中”限定，不将“擦肩而过”理解为官方获奖或提名统计。\n原文位置：《感恩科学家真题》PDF第5页，《感恩科学家真题》原题 Q033\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-034",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q034",
+    "question": "首位获得诺贝尔生理学或医学奖的中国本土科学家是谁，哪年获奖？",
+    "answer": "屠呦呦；2015年。",
+    "exam": true,
+    "note": "《感恩科学家真题》第5页，原题Q034。\n原文位置：《感恩科学家真题》PDF第5页，《感恩科学家真题》原题 Q034\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-035",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q035",
+    "question": "屠呦呦团队发现的抗疟药物是什么，用于防治哪种疾病，获得启发的古籍是什么？",
+    "answer": "青蒿素；疟疾；东晋葛洪《肘后备急方》。",
+    "exam": true,
+    "note": "《感恩科学家真题》第5页，原题Q035。药物、疾病、古籍三个独立要点使用参考答案自评。\n原文位置：《感恩科学家真题》PDF第5页，《感恩科学家真题》原题 Q035\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-036",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q036",
+    "question": "侯氏制碱法的发明者是谁？",
+    "answer": "侯德榜",
+    "keywords": [
+      "侯德榜"
+    ],
+    "acceptedAnswers": [
+      "侯德榜"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第5页，原题Q036。根据原资料整理。\n原文位置：《感恩科学家真题》PDF第5页，《感恩科学家真题》原题 Q036\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-037",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q037",
+    "question": "1965年我国首次人工全合成、具有生物活性的蛋白质是什么？",
+    "answer": "结晶牛胰岛素",
+    "keywords": [
+      "结晶牛胰岛素"
+    ],
+    "acceptedAnswers": [
+      "结晶牛胰岛素",
+      "牛胰岛素",
+      "人工合成结晶牛胰岛素"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第5页，原题Q037。原资料记载1965年9月17日完成，是世界上首次人工全合成具有生物活性的蛋白质。\n原文位置：《感恩科学家真题》PDF第5页，《感恩科学家真题》原题 Q037\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-038",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q038",
+    "question": "主持修建钱塘江大桥的中国桥梁专家是谁？他在大桥被炸毁时写下哪八个字？",
+    "answer": "茅以升；抗战必胜，此桥必复。",
+    "exam": true,
+    "note": "《感恩科学家真题》第5页，原题Q038。\n原文位置：《感恩科学家真题》PDF第5页，《感恩科学家真题》原题 Q038\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-039",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q039",
+    "question": "主持京张铁路设计施工的近代铁路先驱是谁？这份资料列出的两种施工、线路方法是什么？",
+    "answer": "詹天佑；人字形折返线路法、竖井开凿法。",
+    "exam": true,
+    "note": "《感恩科学家真题》第5页，原题Q039。原资料有三项要点，保留为完整参考答案。\n原文位置：《感恩科学家真题》PDF第5页，《感恩科学家真题》原题 Q039\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-040",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q040",
+    "question": "中国气象学、地理学奠基人之一，在国立东南大学创办地学系并设立早期气象专业的科学家是谁？",
+    "answer": "竺可桢",
+    "keywords": [
+      "竺可桢"
+    ],
+    "acceptedAnswers": [
+      "竺可桢"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第5页，原题Q040。原资料以创办国立东南大学地学系及气象专业作为人物识别线索。\n原文位置：《感恩科学家真题》PDF第5页，《感恩科学家真题》原题 Q040\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-041",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q041",
+    "question": "中国地质事业奠基人之一、地质力学创始人是谁？原资料提及的、其找油远景认识得到证实的油田是哪一个？",
+    "answer": "李四光；大庆油田。",
+    "exam": true,
+    "note": "《感恩科学家真题》第5页，原题Q041。原题缺独立问号且是残句，依紧随其后的“李四光；大庆”恢复问答，并用中科院南京地质古生物所人物介绍限缩表述。其找油远景认识为大庆、胜利等油田的发现所证实，不能简化为李四光独自发现大庆油田。\n原文位置：《感恩科学家真题》PDF第5页，《感恩科学家真题》原题 Q041\n核对状态：已核对官方资料\n核对链接：https://nigpas.cas.cn/sourcedb/cn/pep/ys/200910/t20091022_6493456.html"
+  },
+  {
+    "id": "hzn-notes-exam-042",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q042",
+    "question": "我国古生物学、地层学的开拓者和奠基人之一，对寒武纪地层和三叶虫研究有重要贡献的科学家是谁？",
+    "answer": "孙云铸",
+    "keywords": [
+      "孙云铸"
+    ],
+    "acceptedAnswers": [
+      "孙云铸"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第5页，原题Q042。原题把“古地层学”与“古生物学奠基人”并列，答案又夹入“张弥曼（古鱼类研究条目）”。据北京大学校史馆修整为明确指向孙云铸的问法；张弥曼保留于Q043，不混作本题并列答案。\n原文位置：《感恩科学家真题》PDF第5页，《感恩科学家真题》原题 Q042\n核对状态：已核对官方资料\n核对链接：https://www.xsg.pku.edu.cn/details/1599.html"
+  },
+  {
+    "id": "hzn-notes-exam-043",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q043",
+    "question": "长期从事古鱼类演化研究，2016年获罗美尔—辛普森终身成就奖、2018年获世界杰出女科学家奖的科学家是谁？",
+    "answer": "张弥曼",
+    "keywords": [
+      "张弥曼"
+    ],
+    "acceptedAnswers": [
+      "张弥曼"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第5页，原题Q043。已据中科院古脊椎所资料核对2016年与2018年两项荣誉。\n原文位置：《感恩科学家真题》PDF第5页，《感恩科学家真题》原题 Q043\n核对状态：已核对官方资料\n核对链接：https://ivpp.cas.cn/xwdt/zhxw/201811/t20181103_5156890.html"
+  },
+  {
+    "id": "hzn-notes-exam-044",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q044",
+    "question": "中国实验胚胎学的主要创始人、被称为“中国克隆之父”的科学家是谁？他的夫人是谁？",
+    "answer": "童第周；叶毓芬。",
+    "exam": true,
+    "note": "《感恩科学家真题》第5页，原题Q044。题面在第5页末，答案续第6页。原资料只答童第周及学科，遗漏夫人；据中科院动物研究所《从签赠本想起叶毓芬副教授》补齐叶毓芬，并注明这部分为核实补充。\n原文位置：《感恩科学家真题》PDF第5页，《感恩科学家真题》原题 Q044\n核对状态：按用户资料编写\n核对链接：https://ioz.cas.cn/kxcbb/rw/202011/t20201113_5748933.html"
+  },
+  {
+    "id": "hzn-notes-exam-045",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q045",
+    "question": "袁隆平的核心科研领域、相关技术体系和两个梦想是什么？",
+    "answer": "杂交水稻；超级杂交稻技术体系；禾下乘凉梦、杂交水稻覆盖全球梦。",
+    "exam": true,
+    "note": "《感恩科学家真题》第6页，原题Q045。原资料四项要点作为完整参考答案。\n原文位置：《感恩科学家真题》PDF第6页，《感恩科学家真题》原题 Q045\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-046",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q046",
+    "question": "被誉为“中国外科之父”的医学家是谁？",
+    "answer": "裘法祖",
+    "keywords": [
+      "裘法祖"
+    ],
+    "acceptedAnswers": [
+      "裘法祖"
+    ],
+    "exam": true,
+    "note": "《感恩科学家真题》第6页，原题Q046。中国科学家博物馆及同济医院人物材料可支持该称谓。\n原文位置：《感恩科学家真题》PDF第6页，《感恩科学家真题》原题 Q046\n核对状态：已核对官方资料\n核对链接：https://www.mmcs.org.cn/kxjfc/kxjfc/wmc/cj/art/2023/art_489fbada5808418ba0d2284c59b8e9a3.html"
+  },
+  {
+    "id": "hzn-notes-exam-047",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q047",
+    "question": "被誉为“东方居里夫人”“核物理女王”“物理学第一夫人”的科学家是谁？",
+    "answer": "吴健雄",
+    "keywords": [
+      "吴健雄"
+    ],
+    "acceptedAnswers": [
+      "吴健雄"
+    ],
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第6页原题 Q047的题后答案整理。\n原文位置：《感恩科学家真题》PDF第6页，原题 Q047\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-048",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q048",
+    "question": "培育世界首胎试管山羊、被誉为“试管山羊之父”的中国科学家是谁？",
+    "answer": "旭日干",
+    "keywords": [
+      "旭日干"
+    ],
+    "acceptedAnswers": [
+      "旭日干"
+    ],
+    "exam": true,
+    "note": "内蒙古大学实验室官网记载，旭日干于1984年3月9日培育成功世界首胎试管山羊，被誉为“试管山羊之父”。\n原文位置：《感恩科学家真题》PDF第6页，原题 Q048\n核对状态：已核对官方资料\n核对链接：https://sklab.imu.edu.cn/info/1047/1019.htm"
+  },
+  {
+    "id": "hzn-notes-exam-049",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q049",
+    "question": "牵头研制“甲种分离膜”的科学家是谁？",
+    "answer": "吴自良",
+    "keywords": [
+      "吴自良"
+    ],
+    "acceptedAnswers": [
+      "吴自良"
+    ],
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第6页原题 Q049的题后答案整理。\n原文位置：《感恩科学家真题》PDF第6页，原题 Q049\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-050",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q050",
+    "question": "“干惊天动地事，做隐姓埋名人”常用来形容哪一科研群体？",
+    "answer": "两弹一星元勋",
+    "keywords": [
+      "两弹一星元勋"
+    ],
+    "acceptedAnswers": [
+      "两弹一星元勋",
+      "两弹一星科研人员",
+      "两弹一星科研工作者"
+    ],
+    "exam": true,
+    "note": "资料给出的答案为“两弹一星元勋”。这句话概括了“两弹一星”科研工作者隐姓埋名、无私奉献的精神。\n原文位置：《感恩科学家真题》PDF第6页，原题 Q050\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-051",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q051",
+    "question": "邓稼先被称为什么？1984年核试验成功后，“红云冲天照九霄，千钧核力动地摇”的作者是谁？",
+    "answer": "两弹之父；邓稼先。",
+    "exam": true,
+    "note": "邓稼先被称为“两弹之父”。国家国防科技工业局记载，1984年邓稼先指挥第二代新式核武器试验成功后写下此诗。原资料的“千钧合力”已校正为“千钧核力”。\n原文位置：《感恩科学家真题》PDF第6页，原题 Q051\n核对状态：已核对官方资料\n核对链接：https://www.sastind.gov.cn/n10086200/n10086361/n10561063/n10561083/c10564225/content.html"
+  },
+  {
+    "id": "hzn-notes-exam-052",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q052",
+    "question": "六十余年坚守讲台的清华大学物理学教授是谁？",
+    "answer": "张礼",
+    "keywords": [
+      "张礼"
+    ],
+    "acceptedAnswers": [
+      "张礼"
+    ],
+    "exam": true,
+    "note": "清华大学《张礼：在讲台上延续一生所爱》介绍了张礼长期坚持物理教学的经历。\n原文位置：《感恩科学家真题》PDF第6页，原题 Q052\n核对状态：已核对官方资料\n核对链接：https://www.tsinghua.edu.cn/info/1182/49111.htm"
+  },
+  {
+    "id": "hzn-notes-exam-053",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q053",
+    "question": "曾因营救被捕爱国学生，被誉为“武功四君子”之一的植物分类学家是谁？",
+    "answer": "林镕",
+    "keywords": [
+      "林镕"
+    ],
+    "acceptedAnswers": [
+      "林镕"
+    ],
+    "exam": true,
+    "note": "中国植物学会人物资料记载，林镕与其他三位教授多方营救抗日爱国学生，他们被称为“武功四君子”。\n原文位置：《感恩科学家真题》PDF第6页，原题 Q053\n核对状态：已核对官方资料\n核对链接：https://www.botany.org.cn/zjhc/201509/t20150924_585117.html"
+  },
+  {
+    "id": "hzn-notes-exam-054",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q054",
+    "question": "提出利用两颗同步定点卫星进行导航的“双星定位”构想的是谁？",
+    "answer": "陈芳允",
+    "keywords": [
+      "陈芳允"
+    ],
+    "acceptedAnswers": [
+      "陈芳允"
+    ],
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第6页原题 Q054的题后答案整理。\n原文位置：《感恩科学家真题》PDF第6页，原题 Q054\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-055",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q055",
+    "question": "以哥德巴赫猜想中“1+2”研究成果闻名的中国数学家是谁？",
+    "answer": "陈景润",
+    "keywords": [
+      "陈景润"
+    ],
+    "acceptedAnswers": [
+      "陈景润"
+    ],
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第6页原题 Q055的题后答案整理。\n原文位置：《感恩科学家真题》PDF第6页，原题 Q055\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-056",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q056",
+    "question": "“敦煌女儿”是谁？她长期守护的文化遗产是什么？",
+    "answer": "樊锦诗；敦煌莫高窟。",
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第7页原题 Q056的题后答案整理。\n原文位置：《感恩科学家真题》PDF第7页，原题 Q056\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-057",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q057",
+    "question": "2009年归国任教吉林大学，从事深部探测研究的地球物理学家是谁？",
+    "answer": "黄大年",
+    "keywords": [
+      "黄大年"
+    ],
+    "acceptedAnswers": [
+      "黄大年"
+    ],
+    "exam": true,
+    "note": "答案为黄大年；资料还列有“地壳一号”和2024年被追授“人民教育家”国家荣誉称号的复习信息。吉林大学官网2024年9月14日报道确认其“人民教育家”荣誉。\n原文位置：《感恩科学家真题》PDF第7页，原题 Q057\n核对状态：已核对官方资料\n核对链接：https://news.jlu.edu.cn/info/1306/58630.htm"
+  },
+  {
+    "id": "hzn-notes-exam-058",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q058",
+    "question": "中国现代妇产科学的主要开拓者、奠基人之一是谁？",
+    "answer": "林巧稚",
+    "keywords": [
+      "林巧稚"
+    ],
+    "acceptedAnswers": [
+      "林巧稚"
+    ],
+    "exam": true,
+    "note": "林巧稚是中国现代妇产科学的主要开拓者、奠基人之一，也是中国科学院第一位女学部委员（院士）。原资料此题答案后混入“何泽慧”，何泽慧为核物理学家，不是本题答案。\n原文位置：《感恩科学家真题》PDF第7页，原题 Q058\n核对状态：已核对官方资料\n核对链接：https://cpc.people.com.cn/n1/2022/0518/c443712-32424042.html"
+  },
+  {
+    "id": "hzn-notes-exam-059",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q059",
+    "question": "被称为中国“居里夫人”的核物理学家是谁？",
+    "answer": "何泽慧",
+    "keywords": [
+      "何泽慧"
+    ],
+    "acceptedAnswers": [
+      "何泽慧"
+    ],
+    "exam": true,
+    "note": "何泽慧被誉为中国的“居里夫人”。原题把这一称号与“中国科学院第一位女院士”混为一问，后半项错误：中国科学院第一位女学部委员（院士）是林巧稚，不能用何泽慧作答。\n原文位置：《感恩科学家真题》PDF第7页，原题 Q059\n核对状态：已核对官方资料\n核对链接：https://www.cas.cn/xzfc/202209/t20220928_4849224.shtml"
+  },
+  {
+    "id": "hzn-notes-exam-060",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q060",
+    "question": "中国半导体物理学科的开创者之一是哪位女科学家？",
+    "answer": "谢希德",
+    "keywords": [
+      "谢希德"
+    ],
+    "acceptedAnswers": [
+      "谢希德"
+    ],
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第7页原题 Q060的题后答案整理。\n原文位置：《感恩科学家真题》PDF第7页，原题 Q060\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-061",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q061",
+    "question": "与乌伦贝克合著《布朗运动的理论Ⅱ》的中国女物理学家是谁？",
+    "answer": "王明贞",
+    "keywords": [
+      "王明贞"
+    ],
+    "acceptedAnswers": [
+      "王明贞"
+    ],
+    "exam": true,
+    "note": "清华大学校史馆“水木巾帼风采录”记载了王明贞与乌伦贝克合著《布朗运动的理论Ⅱ》的贡献；资料记载发表于1945年。\n原文位置：《感恩科学家真题》PDF第7页，原题 Q061\n核对状态：已核对官方资料\n核对链接：https://xsg.tsinghua.edu.cn/info/1004/2597.htm"
+  },
+  {
+    "id": "hzn-notes-exam-062",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q062",
+    "question": "参与国徽和人民英雄纪念碑相关设计工作的著名建筑学家是谁？",
+    "answer": "林徽因",
+    "keywords": [
+      "林徽因"
+    ],
+    "acceptedAnswers": [
+      "林徽因"
+    ],
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第7页原题 Q062的题后答案整理。\n原文位置：《感恩科学家真题》PDF第7页，原题 Q062\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-063",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q063",
+    "question": "中国流体力学研究的先驱之一是哪位女科学家？",
+    "answer": "陆士嘉",
+    "keywords": [
+      "陆士嘉"
+    ],
+    "acceptedAnswers": [
+      "陆士嘉"
+    ],
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第7页原题 Q063的题后答案整理。\n原文位置：《感恩科学家真题》PDF第7页，原题 Q063\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-064",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q064",
+    "question": "被称为“中国的莱特”“中国始创飞行大家”的是谁？",
+    "answer": "冯如",
+    "keywords": [
+      "冯如"
+    ],
+    "acceptedAnswers": [
+      "冯如"
+    ],
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第7页原题 Q064的题后答案整理。\n原文位置：《感恩科学家真题》PDF第7页，原题 Q064\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-065",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q065",
+    "question": "领导建立运动员禁用的五大类100种药物的分析及确证方法，并创建兴奋剂检测中心的科学家是谁？",
+    "answer": "周同惠",
+    "keywords": [
+      "周同惠"
+    ],
+    "acceptedAnswers": [
+      "周同惠"
+    ],
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第7页原题 Q065的题后答案整理。\n原文位置：《感恩科学家真题》PDF第7页，原题 Q065\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-066",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q066",
+    "question": "被誉为“黄土之父”、中国地球环境科学奠基人之一的是谁？",
+    "answer": "刘东生",
+    "keywords": [
+      "刘东生"
+    ],
+    "acceptedAnswers": [
+      "刘东生"
+    ],
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第7页原题 Q066的题后答案整理。\n原文位置：《感恩科学家真题》PDF第7页，原题 Q066\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-067",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q067",
+    "question": "“两弹一星”元勋中，唯一以烈士身份被追授功勋奖章的是谁？",
+    "answer": "郭永怀",
+    "keywords": [
+      "郭永怀"
+    ],
+    "acceptedAnswers": [
+      "郭永怀"
+    ],
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第8页原题 Q067的题后答案整理。\n原文位置：《感恩科学家真题》PDF第8页，原题 Q067\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-068",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q068",
+    "question": "我国第一颗人造地球卫星是什么？何时发射？我国成为第几个独立研制并发射人造卫星的国家？",
+    "answer": "东方红一号；1970年4月24日；第五个。",
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第8页原题 Q068的题后答案整理。\n原文位置：《感恩科学家真题》PDF第8页，原题 Q068\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-069",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q069",
+    "question": "“东方红一号”技术总负责人、被称为中国航天“大总师”的科学家是谁？",
+    "answer": "孙家栋",
+    "keywords": [
+      "孙家栋"
+    ],
+    "acceptedAnswers": [
+      "孙家栋"
+    ],
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第8页原题 Q069的题后答案整理。\n原文位置：《感恩科学家真题》PDF第8页，原题 Q069\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-070",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q070",
+    "question": "我国完全自主研制的世界首颗空间量子科学实验卫星叫什么？首席科学家是谁？",
+    "answer": "墨子号；潘建伟。",
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第8页原题 Q070的题后答案整理。\n原文位置：《感恩科学家真题》PDF第8页，原题 Q070\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-071",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q071",
+    "question": "我国首次完成月球无人采样返回任务的探测器是什么？",
+    "answer": "嫦娥五号",
+    "keywords": [
+      "嫦娥五号"
+    ],
+    "acceptedAnswers": [
+      "嫦娥五号",
+      "嫦娥5号"
+    ],
+    "exam": true,
+    "note": "嫦娥五号于2020年12月17日完成我国首次地外天体采样返回任务；题干限定“我国”。\n原文位置：《感恩科学家真题》PDF第8页，原题 Q071\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-072",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q072",
+    "question": "天问一号何时发射、进入火星轨道并着陆火星？",
+    "answer": "2020年7月23日发射；2021年2月10日进入火星轨道；2021年5月15日着陆火星。",
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第8页原题 Q072的题后答案整理。\n原文位置：《感恩科学家真题》PDF第8页，原题 Q072\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-073",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q073",
+    "question": "嫦娥六号从哪个发射场发射？",
+    "answer": "文昌航天发射场",
+    "keywords": [
+      "文昌航天发射场"
+    ],
+    "acceptedAnswers": [
+      "文昌航天发射场",
+      "文昌发射场",
+      "文昌"
+    ],
+    "exam": true,
+    "note": "资料答案为文昌航天发射场，并附发射时间2024年5月3日17时27分、月背软着陆时间2024年6月2日6时23分。\n原文位置：《感恩科学家真题》PDF第8页，原题 Q073\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-074",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q074",
+    "question": "我国第一颗原子弹和第一颗氢弹分别于何时试验成功？",
+    "answer": "原子弹：1964年10月16日，在新疆罗布泊爆炸成功；氢弹：1967年6月17日。",
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第8页原题 Q074的题后答案整理。\n原文位置：《感恩科学家真题》PDF第8页，原题 Q074\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-075",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q075",
+    "question": "“两弹一星”中的“两弹”和“一星”分别指什么？",
+    "answer": "两弹指核弹和导弹；一星指人造地球卫星。核弹包括原子弹和氢弹。",
+    "exam": true,
+    "note": "资料提示：历史上“两弹”最初指原子弹、导弹，后来核弹的范围包括氢弹。\n原文位置：《感恩科学家真题》PDF第8页，原题 Q075\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-076",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q076",
+    "question": "FAST的首席科学家是谁？何时落成启用？位于哪里？",
+    "answer": "南仁东；2016年9月25日落成启用；贵州省黔南布依族苗族自治州平塘县。",
+    "exam": true,
+    "note": "FAST全称500米口径球面射电望远镜。资料还记载南仁东历时22年推进工程。\n原文位置：《感恩科学家真题》PDF第8页，原题 Q076\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-077",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q077",
+    "question": "“极地”号、“雪龙”号与“雪龙2”号应如何区分？",
+    "answer": "老“极地”号是我国第一艘极地科学考察船；“雪龙”号于1993年从乌克兰购入改造，是极地科考破冰船；“雪龙2”号是我国第一艘自主建造的极地科学考察破冰船。",
+    "exam": true,
+    "note": "注意老“极地”号与2024年投入使用的新“极地”船同名，不能将二者混为一船。此题按资料比较的是老“极地”号、“雪龙”号与“雪龙2”号。\n原文位置：《感恩科学家真题》PDF第9页，原题 Q077\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-078",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q078",
+    "question": "东风五号与东风-5C分别对应什么发展信息？",
+    "answer": "东风五号是我国第一代陆基洲际弹道导弹；东风-5C于2025年9月3日纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵中亮相。",
+    "exam": true,
+    "note": "资料区分东风五号的代际信息与东风-5C的阅兵亮相时间。东风-5C于2025年阅兵亮相已由国防部报道核对；不混同型号及具体年份。\n原文位置：《感恩科学家真题》PDF第9页，原题 Q078\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-079",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q079",
+    "question": "黄纬禄1957年转入哪个机构？他担任总设计师的海基导弹代表型号是什么？",
+    "answer": "国防部第五研究院第二分院；巨浪一号。",
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第9页原题 Q079的题后答案整理。\n原文位置：《感恩科学家真题》PDF第9页，原题 Q079\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-080",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q080",
+    "question": "“863计划”的规范名称是什么？",
+    "answer": "国家高技术研究发展计划",
+    "keywords": [
+      "国家高技术研究发展计划"
+    ],
+    "acceptedAnswers": [
+      "国家高技术研究发展计划"
+    ],
+    "exam": true,
+    "note": "资料提示：1986年启动，名称来源于1986年3月。“863计划”不只针对某一种装备。\n原文位置：《感恩科学家真题》PDF第9页，原题 Q080\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-081",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q081",
+    "question": "2022年11月30日5时42分，与空间站天和核心舱前向端口完成自主快速交会对接的载人飞船是什么？",
+    "answer": "神舟十五号",
+    "keywords": [
+      "神舟十五号"
+    ],
+    "acceptedAnswers": [
+      "神舟十五号",
+      "神舟15号"
+    ],
+    "exam": true,
+    "note": "中国载人航天工程官网明确记载，神舟十五号在这一时刻成功对接天和核心舱前向端口，整个对接过程历时约6.5小时。\n原文位置：《感恩科学家真题》PDF第9页，原题 Q081\n核对状态：已核对官方资料\n核对链接：https://www.cmse.gov.cn/xwzx/202211/t20221130_51694.html"
+  },
+  {
+    "id": "hzn-notes-exam-082",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q082",
+    "question": "2024年2月7日建成并投入使用的我国南极考察站是第几个？名称是什么？",
+    "answer": "第五个；秦岭站。",
+    "exam": true,
+    "note": "资料记载秦岭站位于南极罗斯海沿岸的恩克斯堡岛，2024年2月7日正式建成并投入使用。\n原文位置：《感恩科学家真题》PDF第9页，原题 Q082\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-083",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q083",
+    "question": "2026年“中国航天日”的主题是什么？",
+    "answer": "七秩问天路 携手探九霄",
+    "keywords": [
+      "七秩问天路携手探九霄"
+    ],
+    "acceptedAnswers": [
+      "七秩问天路 携手探九霄",
+      "七秩问天路，携手探九霄",
+      "七秩问天路，携手探九霄。"
+    ],
+    "exam": true,
+    "note": "国家航天局《关于征集2026年“中国航天日”宣传海报的通知》明确主题为“七秩问天路 携手探九霄”。\n原文位置：《感恩科学家真题》PDF第9页，原题 Q083\n核对状态：已核对官方资料\n核对链接：https://www.cnsa.gov.cn/n6758823/n6758839/c10726432/content.html"
+  },
+  {
+    "id": "hzn-notes-exam-083b",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q083b",
+    "question": "“两弹一星”元勋中的航天材料专家是谁？",
+    "answer": "姚桐斌",
+    "keywords": [
+      "姚桐斌"
+    ],
+    "acceptedAnswers": [
+      "姚桐斌"
+    ],
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第9页原题 Q083b的题后答案整理。\n原文位置：《感恩科学家真题》PDF第9页，原题 Q083b\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-084",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q084",
+    "question": "被誉为“稀土之父”、2008年度国家最高科学技术奖获得者是谁？",
+    "answer": "徐光宪",
+    "keywords": [
+      "徐光宪"
+    ],
+    "acceptedAnswers": [
+      "徐光宪"
+    ],
+    "exam": true,
+    "note": "依据你提供的《感恩科学家真题》第9页原题 Q084的题后答案整理。\n原文位置：《感恩科学家真题》PDF第9页，原题 Q084\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-085",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q085",
+    "question": "被誉为“预警机之父”、2012年度国家最高科学技术奖获得者是谁？",
+    "answer": "王小谟",
+    "keywords": [
+      "王小谟"
+    ],
+    "acceptedAnswers": [
+      "王小谟"
+    ],
+    "exam": true,
+    "note": "资料另记，王小谟在2024年被追授“人民科学家”国家荣誉称号。\n原文位置：《感恩科学家真题》PDF第9页，原题 Q085\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-086",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q086",
+    "question": "我国载人航天工程首任总设计师、2003年度国家最高科学技术奖获得者是谁？",
+    "answer": "王永志",
+    "keywords": [
+      "王永志"
+    ],
+    "acceptedAnswers": [
+      "王永志"
+    ],
+    "exam": true,
+    "note": "资料另记，王永志在2024年被授予“共和国勋章”。\n原文位置：《感恩科学家真题》PDF第10页，原题 Q086\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-087",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q087",
+    "question": "2020年度国家最高科学技术奖获得者是谁？两人分别从事什么领域？",
+    "answer": "顾诵芬：飞机设计；王大中：核能科学技术。",
+    "exam": true,
+    "note": "科技部获奖人介绍确认，顾诵芬是飞机设计大师，王大中是核能科学家。注意这是2020年度奖，2021年11月3日实际颁发。\n原文位置：《感恩科学家真题》PDF第10页，原题 Q087\n核对状态：已核对官方资料\n核对链接：https://www.most.gov.cn/ztzl/gjkxjsjldh/jldh2020/jlgb/202110/t20211029_177638.html"
+  },
+  {
+    "id": "hzn-notes-exam-088",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q088",
+    "question": "2025年度国家科学技术奖中，自然科学奖、技术发明奖和科学技术进步奖合计授奖多少个项目？",
+    "answer": "258",
+    "keywords": [
+      "258"
+    ],
+    "acceptedAnswers": [
+      "258",
+      "258项",
+      "258个",
+      "258个项目"
+    ],
+    "exam": true,
+    "note": "2026年7月8日公布的2025年度奖励决定：国家自然科学奖51项，国家技术发明奖58项，国家科学技术进步奖149项，合计258项。国家最高科学技术奖另授陈立泉、贲德2人，国际科技合作奖另授9名外籍专家；人数不计入258个项目。\n原文位置：《感恩科学家真题》PDF第10页，原题 Q088\n核对状态：已核对官方资料\n核对链接：https://www.miit.gov.cn/xwfb/szyw/art/2026/art_4df26186f1984525913d2a196c908052.html"
+  },
+  {
+    "id": "hzn-notes-exam-089",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q089",
+    "question": "2019年获授“人民科学家”国家荣誉称号的五位科学家是谁？",
+    "answer": "叶培建、吴文俊、南仁东、顾方舟、程开甲。",
+    "exam": true,
+    "note": "资料提示：袁隆平于2019年获得的是“共和国勋章”，不要与“人民科学家”国家荣誉称号混淆。\n原文位置：《感恩科学家真题》PDF第10页，原题 Q089\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-090",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q090",
+    "question": "2024年获授“人民科学家”国家荣誉称号的两位科学家是谁？",
+    "answer": "王小谟、赵忠贤。",
+    "exam": true,
+    "note": "资料提示：其中王小谟为追授。\n原文位置：《感恩科学家真题》PDF第10页，原题 Q090\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-091",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q091",
+    "question": "2024年获授“共和国勋章”的四位获得者是谁？",
+    "answer": "王永志、王振义、李振声、黄宗德。",
+    "exam": true,
+    "note": "本题问2024年完整四人名单；资料附注中2019年袁隆平获共和国勋章，属于另一年份信息。\n原文位置：《感恩科学家真题》PDF第10页，原题 Q091\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-092",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q092",
+    "question": "中国共产党党内最高荣誉勋章的规范名称是什么？",
+    "answer": "七一勋章",
+    "keywords": [
+      "七一勋章"
+    ],
+    "acceptedAnswers": [
+      "七一勋章"
+    ],
+    "exam": true,
+    "note": "共产党员网介绍，“七一勋章”是党内最高荣誉。\n原文位置：《感恩科学家真题》PDF第10页，原题 Q092\n核对状态：已核对官方资料\n核对链接：https://www.12371.cn/2021/09/28/ARTI1632791764918437.shtml"
+  },
+  {
+    "id": "hzn-notes-exam-093",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q093",
+    "question": "2024年获“欧莱雅—联合国教科文组织世界杰出女科学家奖”的中国科学家是谁？",
+    "answer": "颜宁",
+    "keywords": [
+      "颜宁"
+    ],
+    "acceptedAnswers": [
+      "颜宁"
+    ],
+    "exam": true,
+    "note": "联合国教科文组织2024年获奖名单中，颜宁为亚洲及太平洋地区得主。该年度全球共有五位获奖者，题干限定“中国科学家”，避免误称颜宁为全球唯一得主。\n原文位置：《感恩科学家真题》PDF第10页，原题 Q093\n核对状态：已核对官方资料\n核对链接：https://www.unesco.org/zh/articles/5weizhuoyuekeyanrenyuanhuo2024nianoulaiya-jiaokewenzuzhishijiejiechunukexuejiajiang-0"
+  },
+  {
+    "id": "hzn-notes-exam-094",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q094",
+    "question": "《致中国全体留美学生的公开信》的作者是谁？2020年9月11日科学家座谈会上关于科学与祖国的表述是什么？《给留美同学的一封公开信》的牵头起草者是谁？",
+    "answer": "华罗庚；科学无国界，科学家有祖国；朱光亚。",
+    "exam": true,
+    "note": "两封公开信不可混淆：华罗庚发表《致中国全体留美学生的公开信》，朱光亚牵头起草《给留美同学的一封公开信》；“科学无国界，科学家有祖国”见2020年9月11日科学家座谈会讲话。这里未将讲话中的这句话错误归为公开信原句。\n原文位置：《感恩科学家真题》PDF第10页，原题 Q094\n核对状态：已核对官方资料\n核对链接：https://www.cac.gov.cn/2020-09/11/c_1601383688531304.htm"
+  },
+  {
+    "id": "hzn-notes-exam-095",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q095",
+    "question": "感恩中国近现代科学家奖助学金由哪两家单位共同发起设立？",
+    "answer": "西南交通大学、新加坡坚永公司。",
+    "keywords": [
+      "西南交通大学",
+      "坚永"
+    ],
+    "acceptedAnswers": [
+      "西南交通大学、新加坡坚永公司。"
+    ],
+    "exam": true,
+    "note": "主办方官网确认西南交通大学与坚永公司共建立德树人教育发展中心，并通过设立奖助学金开展教育；核对页面使用“坚永公司”的表述。\n原文位置：《感恩科学家真题》PDF第11页，原题 Q095\n核对状态：按用户资料编写\n核对链接：https://ldsrw.swjtu.edu.cn/gywm/zzjg.htm"
+  },
+  {
+    "id": "hzn-notes-exam-096",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q096",
+    "question": "这份真题整理资料如何概括感恩中国近现代科学家奖助学金的宗旨？",
+    "answer": "弘扬科学家精神、立德树人、培育报国青年。",
+    "exam": true,
+    "note": "这是资料给出的概括语。主办方介绍还强调学习、崇敬、感恩科学家，培养有社会责任感、创新精神、实践能力的新时代青年，不宣称该短句为正式通知的唯一规范原文。\n原文位置：《感恩科学家真题》PDF第11页，原题 Q096\n核对状态：按用户资料编写\n核对链接：https://ldsrw.swjtu.edu.cn/gywm/zzjg.htm"
+  },
+  {
+    "id": "hzn-notes-exam-097",
+    "type": "fill",
+    "section": "school",
+    "source": "感恩科学家真题·Q097",
+    "question": "华中农业大学的校训是什么？",
+    "answer": "勤读力耕，立己达人。",
+    "keywords": [
+      "勤读力耕",
+      "立己达人"
+    ],
+    "acceptedAnswers": [
+      "勤读力耕，立己达人。"
+    ],
+    "exam": true,
+    "note": "“力耕”不是“立耕”。这是资料中的华农适配题，不据此断言原回忆题已指定华农。\n原文位置：《感恩科学家真题》PDF第11页，原题 Q097\n核对状态：已核对官方资料\n核对链接：https://www.hzau.edu.cn/xxgk/xxzc.htm"
+  },
+  {
+    "id": "hzn-notes-exam-098",
+    "type": "fill",
+    "section": "school",
+    "source": "感恩科学家真题·Q098",
+    "question": "华中农业大学校庆日是什么时候？",
+    "answer": "10月2日",
+    "keywords": [
+      "10月2日"
+    ],
+    "acceptedAnswers": [
+      "10月2日",
+      "10月2号",
+      "10.2",
+      "10/2"
+    ],
+    "exam": true,
+    "note": "学校校庆日暨校友日为10月2日。\n原文位置：《感恩科学家真题》PDF第11页，原题 Q098\n核对状态：已核对官方资料\n核对链接：https://www.hzau.edu.cn/xxgk/xxzc.htm"
+  },
+  {
+    "id": "hzn-notes-exam-099",
+    "type": "fill",
+    "section": "school",
+    "source": "感恩科学家真题·Q099",
+    "question": "华农的办学源头和创办年份是什么？2026年建校多少周年？",
+    "answer": "1898年创办的湖北农务学堂；2026年建校128周年。",
+    "keywords": [
+      "湖北农务学堂",
+      "1898",
+      "128"
+    ],
+    "acceptedAnswers": [
+      "1898年创办的湖北农务学堂；2026年建校128周年。"
+    ],
+    "exam": true,
+    "note": "周年计算固定以2026年为题目年份：2026−1898=128。\n原文位置：《感恩科学家真题》PDF第11页，原题 Q099\n核对状态：已核对官方资料\n核对链接：https://www.hzau.edu.cn/xxgk/xxjj.htm"
+  },
+  {
+    "id": "hzn-notes-exam-100",
+    "type": "fill",
+    "section": "school",
+    "source": "感恩科学家真题·Q100",
+    "question": "华农进入国家“211工程”建设行列和首次入选“双一流”建设高校分别是哪一年？",
+    "answer": "2005年；2017年。",
+    "keywords": [
+      "2005",
+      "2017"
+    ],
+    "acceptedAnswers": [
+      "2005年；2017年。"
+    ],
+    "exam": true,
+    "note": "2005年进入国家“211工程”建设行列；2017年列入国家“双一流”建设行列。请按题目顺序作答。\n原文位置：《感恩科学家真题》PDF第11页，原题 Q100\n核对状态：已核对官方资料\n核对链接：https://www.hzau.edu.cn/xxgk/xxjj.htm"
+  },
+  {
+    "id": "hzn-notes-exam-101",
+    "type": "flash",
+    "section": "school",
+    "source": "感恩科学家真题·Q101",
+    "question": "按2022年第二轮“双一流”建设名单，华农入选学科有几个，分别是什么？",
+    "answer": "5个：生物学、园艺学、畜牧学、兽医学、农林经济管理。",
+    "exam": true,
+    "note": "按2022年2月公布的第二轮名单作答。学校网页中的“园艺学—作物学学科群”属于另一展示口径，不把作物学另算成第六个。\n原文位置：《感恩科学家真题》PDF第11页，原题 Q101\n核对状态：已核对官方资料\n核对链接：https://emc.hzau.edu.cn/info/1143/10095.htm"
+  },
+  {
+    "id": "hzn-notes-exam-102",
+    "type": "flash",
+    "section": "school",
+    "source": "感恩科学家真题·Q102",
+    "question": "截至2026年10月22日，华中农业大学党委书记和校长分别是谁？",
+    "answer": "党委书记：姚江林；校长：严建兵。",
+    "exam": true,
+    "note": "资料注明截至2026年10月22日；2026年10月24日核对学校官网“学校领导”页面，姓名与职务一致。本题保留时间限定。\n原文位置：《感恩科学家真题》PDF第11页，原题 Q102\n核对状态：已核对官方资料\n核对链接：https://www.hzau.edu.cn/xxgk/xxld.htm"
+  },
+  {
+    "id": "hzn-notes-exam-103",
+    "type": "flash",
+    "section": "school",
+    "source": "感恩科学家真题·Q103",
+    "question": "这份资料列出的华农资助育人相关理念是哪三项？",
+    "answer": "自立自强、感恩生活、回报社会。",
+    "exam": true,
+    "note": "学生资助管理中心有关大学生勤工助学中心的报道使用这一理念。不与学校章程中的办学理念“育人为本、崇尚学术”混淆。\n原文位置：《感恩科学家真题》PDF第11页，原题 Q103\n核对状态：已核对官方资料\n核对链接：https://xszz.hzau.edu.cn/info/1010/1153.htm"
+  },
+  {
+    "id": "hzn-notes-exam-108",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q108",
+    "question": "结合李四光与本校教授事迹理解科学家精神及其作用？",
+    "answer": "参考答题提纲（非唯一标准答案）：<br>1. 科学家精神是科学探索中形成的价值追求,包括爱国、创新、求实、奉献、协同、育人,体现学术责任与社会责任的统一。<br>2. 李四光把力学原理运用于地质研究,发展地质力学并服务资源勘查,体现从实际出发、回应国家需要的科学追求。<br>3. 华农适配可举张启发:长期开展水稻功能基因组和遗传改良研究,推动绿色超级稻研究与应用,服务农业绿色发展。<br>4. 不同学科的共同点,是把个人志向同社会需求结合,以可靠证据支撑创新,在长期协作中积累成果、培养人才。<br>5. 大学生应学好基础、尊重证据、诚实表达、勇于提问,把精神认同转化为解决真实问题的能力,推动优良学风和科技进步。",
+    "exam": true,
+    "note": "参考答题提纲，非唯一标准答案。请结合本人经历、专业和实际情况组织表达，不把示例写成已经发生的个人经历。原回忆未明确学校或指定教授，此处为华农适配示例，不能称原题已指定华农或这些教授。\n原文位置：《感恩科学家真题》PDF第12页，原题 Q108\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-109",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q109",
+    "question": "两弹一星精神的内涵时代价值与中国脊梁？",
+    "answer": "参考答题提纲（非唯一标准答案）：<br>1. “两弹一星”精神的核心是热爱祖国、无私奉献,自力更生、艰苦奋斗,大力协同、勇于登攀,六者相互联系、共同支撑。<br>2. 面对当时的国防需求与技术困难,科研人员将国家安全置于个人得失之上,依靠自主探索和长期坚守形成重大突破。<br>3. 称其为“中国脊梁”,既指国防科技成就增强国家安全和国际地位,也指科学家体现了挺起民族精神的责任与担当。<br>4. 今天发展条件已经变化,但关键核心技术攻关仍需独立思考、持续投入和跨领域协作,这种精神具有现实价值。<br>5. 青年应把报国志向落实为扎实学习、实事求是和团队合作,尊重科学规律,耐得住基础工作的平凡,努力提升创新本领。",
+    "exam": true,
+    "note": "参考答题提纲，非唯一标准答案。请结合本人经历、专业和实际情况组织表达，不把示例写成已经发生的个人经历。\n原文位置：《感恩科学家真题》PDF第12页，原题 Q109\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-110",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q110",
+    "question": "大学生如何理解科学家的爱国奉献精神？",
+    "answer": "参考答题提纲（非唯一标准答案）：<br>1. 爱国奉献首先是明确科研为了谁,把国家发展和人民需要作为选择研究问题的重要方向,使个人理想具有公共价值。<br>2. 这种精神体现在具体工作中:面对困难坚持探索,面对利益诱惑保持定力,尊重团队贡献,不以夸大成果换取评价。<br>3. 奉献不等于忽视个人成长,而是通过扎实学习和专业进步增强服务社会的能力,让个人发展与公共责任相互促进。<br>4. 对大学生而言,应从认真完成课程、遵守学术规范、主动承担合作任务做起,关注专业知识能够回应哪些现实需要。<br>5. 今后的努力应有真实问题、可行步骤和持续投入,既保持远大志向,也尊重自身阶段与能力边界,以实际行动践行报国初心。",
+    "exam": true,
+    "note": "参考答题提纲，非唯一标准答案。请结合本人经历、专业和实际情况组织表达，不把示例写成已经发生的个人经历。原问法疑有漏字，标题按爱国奉献主题整理。\n原文位置：《感恩科学家真题》PDF第13页，原题 Q110\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-111",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q111",
+    "question": "结合两至三位科学家事迹谈新时代青年如何报国？",
+    "answer": "参考答题提纲（非唯一标准答案）：<br>1. 作答先明确,科技报国需要把价值追求与专业能力结合,既说明科学家做了什么,也说明这些事迹如何转化为青年行动。<br>2. 钱学森于1955年回国,投身我国火箭导弹和航天事业,体现把个人事业融入国家建设的选择,以及系统谋划、协同攻关的能力。<br>3. 李四光将力学原理用于地质研究并服务资源勘查,启示青年坚持问题导向,在调查和证据中形成独立判断。<br>4. 两人的共同点是爱国与创新相结合、理论与实践相贯通,不把报国停留在口号,而是在各自岗位持续解决困难。<br>5. 青年应夯实基础、培养好奇心、遵守科研诚信,在合作中发挥所长,面向国家与人民需要积累本领,以长期努力支持科技强国建设。",
+    "exam": true,
+    "note": "参考答题提纲，非唯一标准答案。请结合本人经历、专业和实际情况组织表达，不把示例写成已经发生的个人经历。\n原文位置：《感恩科学家真题》PDF第13页，原题 Q111\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-112",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q112",
+    "question": "钱学森的生平事迹及对个人成长的启发？",
+    "answer": "参考答题提纲（非唯一标准答案）：<br>1. 钱学森早年赴美学习航空与应用力学,在相关领域取得重要成就;1955年冲破阻挠回到祖国,把所学投入国家建设。<br>2. 他著有《工程控制论》,为工程技术研究提供重要理论方法,回国后推动我国火箭导弹研究机构建设和航天事业发展。<br>3. 他的事迹体现家国情怀与科学能力相统一:既有服务祖国的坚定选择,也有长期学习、独立创新和系统组织的深厚积累。<br>4. 对个人成长的启发,是先把基础学扎实,在真实问题中学习多学科知识;面对困难保持耐心,重视团队分工和人才培养。<br>5. 大学生应把远大目标分解为日常任务,守住学术诚信,避免只追逐荣誉,把能否增长本领、解决问题作为检验学习成效的重要尺度。",
+    "exam": true,
+    "note": "参考答题提纲，非唯一标准答案。请结合本人经历、专业和实际情况组织表达，不把示例写成已经发生的个人经历。\n原文位置：《感恩科学家真题》PDF第13页，原题 Q112\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-113",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q113",
+    "question": "选择一位敬佩的近现代科学家并说明理由？",
+    "answer": "参考答题提纲（非唯一标准答案）：<br>1. 以钱学森为可选示例,先说明敬佩的依据是其科学贡献与责任选择,而不只罗列称号、奖项或表达笼统的崇拜。<br>2. 他在工程控制论等领域作出重要贡献,并在回国后推动我国火箭导弹和航天事业,体现深厚学识与面向现实的创新能力。<br>3. 他于1955年回国,将个人事业同祖国建设相联系,这种选择说明爱国情怀需要通过具体工作和持续承担来体现。<br>4. 敬佩还应落实到学习方法:重视基础、独立思考、善于协作,遇到问题寻找证据,面对成果保持谦逊,尊重集体贡献。<br>5. 结尾落到自身可以做到的行动,如完善知识结构、认真完成任务和遵守科研规范;所选人物及个人敬佩理由应由本人确认。",
+    "exam": true,
+    "note": "参考答题提纲，非唯一标准答案。请结合本人经历、专业和实际情况组织表达，不把示例写成已经发生的个人经历。钱学森为可替换示例，人物和理由应由本人确认。\n原文位置：《感恩科学家真题》PDF第14页，原题 Q113\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-114",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q114",
+    "question": "青年奋斗者如何把自身发展与科技发展结合？",
+    "answer": "参考答题提纲（非唯一标准答案）：<br>1. 青年应了解国家科技发展和社会生产生活中的实际问题,在认识专业特点的基础上寻找个人兴趣、能力与现实需求的结合点。<br>2. 把长远志向落实为知识和能力结构,扎实学习基础理论、专业方法与必要的交叉知识,不能用宏大目标代替基本训练。<br>3. 在课程、研究或实践中坚持问题导向,重视调查和数据,允许修正判断,把发现问题、分析问题、解决问题作为成长主线。<br>4. 科技发展依赖分工协作,青年应诚实守信、尊重他人劳动、主动沟通,在团队中承担适合自身阶段的任务并认真完成。<br>5. 面对竞争和评价保持长期视野,把阶段成果作为继续学习的起点,不急于证明自己,用可持续的专业进步增强服务国家与社会的能力。",
+    "exam": true,
+    "note": "参考答题提纲，非唯一标准答案。请结合本人经历、专业和实际情况组织表达，不把示例写成已经发生的个人经历。\n原文位置：《感恩科学家真题》PDF第14页，原题 Q114\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-115",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q115",
+    "question": "大学生如何成长为创新型人才？",
+    "answer": "参考答题提纲（非唯一标准答案）：<br>1. 创新型人才既要有发现新问题、提出新办法的能力,也要有求真务实的态度,创新不是求新奇,而是形成有依据、有价值的改进。<br>2. 首先夯实基础,理解理论的适用条件,熟悉专业方法;同时保持好奇心,通过阅读、观察和比较发现已有解释的不足。<br>3. 训练批判性思维和证据意识,提出可以检验的问题,合理设计研究或方案,认真记录过程,依据结果修正原有判断。<br>4. 拓展交叉视野并加强合作,主动听取不同学科与实际使用者的意见,在交流中补足知识盲区,避免把个人设想直接当作有效结论。<br>5. 守住诚信与责任底线,尊重知识产权和团队贡献,正确面对失败与不确定性,以长期积累和反复验证形成可靠的创新能力。",
+    "exam": true,
+    "note": "参考答题提纲，非唯一标准答案。请结合本人经历、专业和实际情况组织表达，不把示例写成已经发生的个人经历。\n原文位置：《感恩科学家真题》PDF第15页，原题 Q115\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-116",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q116",
+    "question": "应当感恩什么怎样辨别和避免虚伪的感恩？",
+    "answer": "参考答题提纲（非唯一标准答案）：<br>1. 感恩应建立在对帮助和责任的真实认识上,认识家庭养育、学校教育、社会支持与国家发展提供的条件,也尊重具体帮助者的劳动。<br>2. 真实感恩既包括真诚表达,也包括认真生活和学习、珍惜资源、履行承诺,把获得帮助转化为自立成长与关心他人的动力。<br>3. 虚伪的感恩是言语与行动脱节,借感谢谋取评价、表面迎合,或只在需要利益时表达亲近,而不愿承担应尽的责任。<br>4. 辨别时应看是否尊重事实和对方意愿、是否长期守信、是否付诸适当行动,不能只看话语是否热烈或形式是否隆重。<br>5. 大学生可从完成学习任务、珍惜资助、平等帮助他人和承担集体责任做起;感恩不等于盲从,更不应以违背原则的方式回报。",
+    "exam": true,
+    "note": "参考答题提纲，非唯一标准答案。请结合本人经历、专业和实际情况组织表达，不把示例写成已经发生的个人经历。原手写后半问疑为“虚伪的感恩”，完整原题仍待核对。\n原文位置：《感恩科学家真题》PDF第15页，原题 Q116\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-117",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q117",
+    "question": "结合华农校训让科学家精神内化于心外化于行？",
+    "answer": "参考答题提纲（非唯一标准答案）：<br>1. 华农校训是“勤读力耕,立己达人”。勤读强调持续学习,力耕强调躬身实践,立己重在自我修养,达人体现帮助他人与服务社会。<br>2. 科学家精神包括爱国、创新、求实、奉献、协同、育人,与校训所体现的知行结合、个人成长和社会责任相互贯通。<br>3. 内化于心,要理解科学家为何选择长期攻关,把国家和人民需要、真实证据与公共责任作为专业判断的重要尺度。<br>4. 外化于行,要学好基础、认真记录、诚实表达、尊重分工;设计和研究既考虑新意,也关注有效性、使用条件和实际需求。<br>5. 以具体任务检验精神认同,发现不足及时改进,在长期学习、合作与实践中积累本领,使对科学家的敬意转化为稳定的学习和做事习惯。",
+    "exam": true,
+    "note": "参考答题提纲，非唯一标准答案。请结合本人经历、专业和实际情况组织表达，不把示例写成已经发生的个人经历。原回忆未明确学校或指定教授，此处为华农适配示例，不能称原题已指定华农或这些教授。\n原文位置：《感恩科学家真题》PDF第15页，原题 Q117\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-118",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q118",
+    "question": "结合本校两位院士事迹谈科学家精神及传承启示？",
+    "answer": "参考答题提纲（非唯一标准答案）：<br>1. 华农备考可选张启发、邓秀新两位院士作例,先交代研究领域和真实贡献,再联系科学家精神,避免只堆砌荣誉称号。<br>2. 张启发长期从事水稻功能基因组与遗传改良研究,推动绿色超级稻研究和生产应用,体现面向粮食安全与绿色农业的创新追求。<br>3. 邓秀新团队长期开展柑橘细胞工程、无籽育种和种质改良,并以品种布局与配套技术推动周年供应,体现研究服务产业的责任。<br>4. 两人的共同启示是立足真实需求、坚持长期积累、依靠团队协同,把知识创新与人才培养、农业生产和社会发展结合。<br>5. 学生应勤读力耕、立己达人,打牢基础、守住诚信,在适合自身阶段的学习与实践中认真履责,不把口头认同等同于已经做到。",
+    "exam": true,
+    "note": "参考答题提纲，非唯一标准答案。请结合本人经历、专业和实际情况组织表达，不把示例写成已经发生的个人经历。原回忆未明确学校或指定教授，此处为华农适配示例，不能称原题已指定华农或这些教授。\n原文位置：《感恩科学家真题》PDF第16页，原题 Q118\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-119",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q119",
+    "question": "如何理解科学无国界科学家有祖国？",
+    "answer": "参考答题提纲（非唯一标准答案）：<br>1. 科学知识具有可交流、可检验的普遍性,科学进步需要开放交流与国际合作,应尊重不同国家研究者的贡献。<br>2. 科学家同时承担具体的社会责任,其教育、研究与专业选择同所在社会和人民的需要相联系。科学报国既要有情怀,也要有可靠成果。<br>3. 以钱学森1955年回国推动航天事业为例,说明个人专业能力可以同国家发展需求结合;爱国不妨碍尊重科学规律和开展平等合作。<br>4. 大学生应打牢基础、守住诚信、尊重团队劳动,在实际问题中增长本领,逐步形成服务社会的能力,避免只用口号表达认同。",
+    "exam": true,
+    "note": "参考答题提纲，非唯一标准答案。请结合本人经历、专业和实际情况组织表达，不把示例写成已经发生的个人经历。原记录仅保留主题，题干为整理问法。\n原文位置：《感恩科学家真题》PDF第16页，原题 Q119\n核对状态：按用户资料编写"
+  },
+  {
+    "id": "hzn-notes-exam-120",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q120",
+    "question": "陈昌笃研究什么与自然保护纲要有什么关系？",
+    "answer": "我国景观生态学奠基人之一,研究涉及植被、景观生态、自然保护与生物多样性;《中国自然保护纲要》的主要执笔人和统稿人之一。",
+    "exam": true,
+    "note": "按用户提供的真题整理资料收录；题干采用整理问法。\n原文位置：《感恩科学家真题》PDF第17页，原题 Q120\n核对状态：已核对官方资料\n核对链接：https://www.ues.pku.edu.cn/old/tplm/xyk/rw/xy1/286933.htm"
+  },
+  {
+    "id": "hzn-notes-exam-121",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q121",
+    "question": "黄万里主要是哪两个相关领域的专家？",
+    "answer": "水利工程与水文学。",
+    "keywords": [
+      "水利",
+      "水文"
+    ],
+    "acceptedAnswers": [
+      "水利工程与水文学。"
+    ],
+    "exam": true,
+    "note": "清华校友资料记载黄万里从事水利和水文研究；在三门峡工程论证中反对原拟高坝大库方案，重视泥沙运动规律和库区淤积风险。\n原文位置：《感恩科学家真题》PDF第17页，原题 Q121\n核对状态：已核对官方资料\n核对链接：https://www.tsinghua.org.cn/info/1951/20672.htm"
+  },
+  {
+    "id": "hzn-notes-exam-122",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q122",
+    "question": "王承书主要研究哪些方向对原子能事业有什么贡献？",
+    "answer": "核物理学家,气体动力学和铀同位素分离专家;曾从事受控聚变、等离子体物理研究,后领导、参与铀同位素分离级联理论计算等关键工作。",
+    "exam": true,
+    "note": "按用户提供的真题整理资料收录；题干采用整理问法。\n原文位置：《感恩科学家真题》PDF第17页，原题 Q122\n核对状态：已核对官方资料\n核对链接：https://iga.cas.cn/news/dqgz/202505/t20250514_7653892.html"
+  },
+  {
+    "id": "hzn-notes-exam-123",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q123",
+    "question": "林同骅称赞“对基本力学的深刻了解为全世界所少有”的老师是谁？林同骅与林同炎是什么关系？",
+    "answer": "评价对象是罗忠忱；林同骅是林同炎的堂兄。",
+    "exam": true,
+    "note": "西南交大人物报道载有对罗忠忱的评价，土木工程学院人物介绍记载林同骅是林同炎的堂兄。\n原文位置：《感恩科学家真题》PDF第17页，原题 Q123\n核对状态：已核对官方资料\n核对链接：https://zzxy.swjtu.edu.cn/info/1243/8818.htm"
+  },
+  {
+    "id": "hzn-notes-exam-124",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q124",
+    "question": "杨芙清与青鸟工程、系统程序设计语言XCY分别有什么关系？",
+    "answer": "杨芙清是我国软件工程领域开拓者之一，主持青鸟工程；她与徐家福、仲萃豪等合作研制系统程序设计语言XCY。",
+    "exam": true,
+    "note": "北京大学人物报道确认其主持青鸟工程；南京大学校报回忆文章记载她与徐家福、仲萃豪合作设计、实现XCY。\n原文位置：《感恩科学家真题》PDF第17页，原题 Q124\n核对状态：已核对官方资料\n核对链接：https://news.pku.edu.cn/info/3021/138631.htm"
+  },
+  {
+    "id": "hzn-notes-exam-125",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q125",
+    "question": "叶笃正的代表成就和国家最高科学技术奖年度是什么？",
+    "answer": "叶笃正是我国现代气象学主要奠基人之一，开创青藏高原气象学，在大气长波能量频散、东亚大气环流和全球变化研究等方面作出重要贡献；获2005年度国家最高科学技术奖。",
+    "exam": true,
+    "note": "题目考奖项年度“2005年度”，应与颁奖日期区分。资料附加的引语不列为本题必答项。\n原文位置：《感恩科学家真题》PDF第17页，原题 Q125\n核对状态：已核对官方资料\n核对链接：https://www.cas.cn/kxyj/kj/zg/2005n/ydz/mtbd/200907/t20090731_2287257.shtml"
+  },
+  {
+    "id": "hzn-notes-exam-126",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q126",
+    "question": "通过东亚飞蝗生态研究提出“改治结合，根除蝗害”策略的科学家是谁？这一思路强调什么？",
+    "answer": "马世骏。将生态环境改造与飞蝗防治结合，通过调节蝗区生态结构和繁殖条件治理蝗害。",
+    "exam": true,
+    "note": "中科院资料将这一生态治理策略归于马世骏。邱式邦也对治蝗作出贡献，不能仅凭“治蝗”二字混同人物。\n原文位置：《感恩科学家真题》PDF第17页，原题 Q126\n核对状态：已核对官方资料\n核对链接：https://www.cas.cn/xzfc/202107/t20210731_4800661.shtml"
+  },
+  {
+    "id": "hzn-notes-exam-127",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q127",
+    "question": "长期主持黄河治理并提出上拦下排思路的是谁？",
+    "answer": "王化云",
+    "keywords": [
+      "王化云"
+    ],
+    "acceptedAnswers": [
+      "王化云"
+    ],
+    "exam": true,
+    "note": "较完整的表述为“上拦下排，两岸分滞”。\n原文位置：《感恩科学家真题》PDF第17页，原题 Q127\n核对状态：已核对官方资料\n核对链接：https://slt.xinjiang.gov.cn/xjslt/c114449/202508/536bdeb8514d4b479747925f304dc5c2.shtml"
+  },
+  {
+    "id": "hzn-notes-exam-128",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q128",
+    "question": "孙家栋、张荣桥、孙泽洲在探月和首次火星探测任务中的岗位怎样区分？",
+    "answer": "孙家栋：探月工程首任总设计师；<br>张荣桥：中国首次火星探测任务（工程）总设计师；<br>孙泽洲：天问一号火星探测器（探测器系统）总设计师。",
+    "exam": true,
+    "note": "区分任务（工程）总体与探测器系统岗位。国家航天局资料确认孙家栋2004年任探月工程总设计师；上海天文台报道区分张荣桥与孙泽洲岗位。原资料另外提及的叶培建顾问岗位不列为必答内容。\n原文位置：《感恩科学家真题》PDF第18页，原题 Q128\n核对状态：已核对官方资料\n核对链接：https://www.shao.cas.cn/2020Ver/xwdt/tpxw/201704/t20170418_5596458.html"
+  },
+  {
+    "id": "hzn-notes-exam-130",
+    "type": "fill",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q130",
+    "question": "冯·卡门是钱学森、郭永怀在加州理工学院求学期间的____。",
+    "answer": "导师",
+    "keywords": [
+      "导师"
+    ],
+    "acceptedAnswers": [
+      "导师",
+      "老师"
+    ],
+    "exam": true,
+    "note": "冯·卡门是二人的导师。国家航天局人物报道将“你现在学术上已经超过我了”记为他对钱学森的评价。\n原文位置：《感恩科学家真题》PDF第18页，原题 Q130\n核对状态：已核对官方资料\n核对链接：https://www.cnsa.gov.cn/n6758968/n6758974/c6802939/content.html"
+  },
+  {
+    "id": "hzn-notes-exam-131",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q131",
+    "question": "我国首个累计在轨超过400天的航天员是谁？2025年神舟二十号乘组在轨驻留多少天？",
+    "answer": "陈冬；神舟二十号乘组此次在轨驻留204天。<br>2025年11月14日，乘组搭乘神舟二十一号飞船返回；神舟二十号飞船本身于2026年1月19日以无人状态返回，在轨270天。",
+    "exam": true,
+    "note": "载人航天工程办公室2026年1月16日见面会实录确认陈冬与乘组204天记录；1月19日官方飞船返回报道确认无人飞船在轨270天。不要将飞船停留时间当作乘组驻留时间。\n原文位置：《感恩科学家真题》PDF第18页，原题 Q131\n核对状态：已核对官方资料\n核对链接：https://www.cmse.gov.cn/ztbd/xwfbh/202601/t20260116_57222.html"
+  },
+  {
+    "id": "hzn-notes-exam-132",
+    "type": "flash",
+    "section": "scientist",
+    "source": "感恩科学家真题·Q132",
+    "question": "中国空间站是否由我国自主设计建造和运营？",
+    "answer": "是。中国空间站由我国独立自主设计、自主建造和运行，是长期在轨运行的载人空间站和国家太空实验室。",
+    "exam": true,
+    "note": "国家航天局载人航天三十年综述记载我国自主建造、独立运行的空间站及独立自主发展道路。\n原文位置：《感恩科学家真题》PDF第18页，原题 Q132\n核对状态：已核对官方资料\n核对链接：https://www.cnsa.gov.cn/n6758823/n6758838/c10004565/content.html"
   }
 ];
 
@@ -2045,5 +3719,21 @@ for (const q of window.MY_SCHOOL_BANK) {
     value(predicate, thisArg) { return aliases.some(a => predicate.call(thisArg, a, 0, this)); }
   });
 }
+// 为原版增加真题筛选；保留原有知识分类和做题记录。
+window.HZAUInstallExamTools = function () {
+  if (window.__hzauExamTools || typeof window.chipRow !== 'function') return;
+  window.__hzauExamTools = true;
+  const oldChips = window.chipRow, oldFilter = window.applyFilter, oldBadges = window.metaBadges;
+  window.chipRow = function () {
+    const chip = '<span class="chip ' + (P.filter.sec === 'exam' ? 'on' : '') + '" onclick="setF(&quot;sec&quot;,&quot;exam&quot;)">📄 真题整理</span>';
+    return oldChips().replace('</div>', chip + '</div>');
+  };
+  window.applyFilter = function () {
+    if (P.filter.sec !== 'exam') return oldFilter();
+    P.filter.sec = 'all'; oldFilter(); P.filter.sec = 'exam';
+    P.list = P.list.filter(q => q.exam);
+  };
+  window.metaBadges = function (q) { return q.exam ? oldBadges(q).replace(/校情题|科学家普适/, '真题整理') : oldBadges(q); };
+};
 // 即使原版可选文件加载超过兜底时间，也在题库到达后重新合并。
-if (typeof window.__boot === 'function') window.__boot();
+if (typeof window.__boot === 'function') { window.HZAUInstallExamTools(); window.__boot(); }
